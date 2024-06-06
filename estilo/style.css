@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20231227/pngtree-infinite-vector-ornamental-seamless-pattern-perfect-for-wallpaper-image_13922967.png");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+.card {
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.card-title {
+    margin-bottom: 1.5rem;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+}
+
+.input-group .form-control {
+    flex: 1;
+}
+
+#listaAficiones {
+    margin-top: 1rem;
+}
